@@ -1,0 +1,19 @@
+.background-btn
+{
+    background-color: rgb(2, 225, 255);
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.nav-a
+{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
